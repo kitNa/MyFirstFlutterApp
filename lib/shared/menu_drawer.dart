@@ -27,8 +27,8 @@ class MenuDrawer extends StatelessWidget {
       'Weather',
       'Lessons',
       'Location',
-      //'Map search',
-      //'Distance on the map',
+      'Map search',
+      'Distance on the map',
       'Map with poliline'
     ];
 

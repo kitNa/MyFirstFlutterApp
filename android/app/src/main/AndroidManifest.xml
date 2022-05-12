@@ -9,7 +9,7 @@
            android:value="AIzaSyDgrK9JyWkku61Acv37QdLpRuVjytLDlJU"/>
 
         <activity
-            android:name=".MainActivity"
+            android:name="android.app.Activity"
             android:exported="true"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
