@@ -4,9 +4,9 @@ import 'package:untitled/screens/weather_screen.dart';
 import '../screens/example.dart';
 import '../screens/map_search_screen.dart';
 import '../screens/price_screen.dart';
-import '../screens/intro_screen.dart';
+import '../screens/introScreen.dart';
 import '../screens/map_screen.dart';
-import '../screens/map_polyline_screen.dart';
+import '../screens/mapPolylineScreen.dart';
 
 class MenuDrawer extends StatelessWidget {
   const MenuDrawer({Key? key}) : super(key: key);
